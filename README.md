@@ -1,0 +1,6 @@
+![alt text](https://github.com/Dragan-V/MIS_Lab3/blob/master/Screenshot_20251212_184049_Permission%20controller.jpg)
+![alt text](https://github.com/Dragan-V/MIS_Lab3/blob/master/Screenshot_20251212_184107.jpg)
+![alt text](https://github.com/Dragan-V/MIS_Lab3/blob/master/Screenshot_20251212_184116.jpg)
+![alt text](https://github.com/Dragan-V/MIS_Lab3/blob/master/Screenshot_20251212_184126.jpg)
+![alt text](https://github.com/Dragan-V/MIS_Lab3/blob/master/Screenshot_20251212_184401.jpg)
+![alt text](https://github.com/Dragan-V/MIS_Lab3/blob/master/Screenshot_20251212_184416_One%20UI%20Home.jpg)
